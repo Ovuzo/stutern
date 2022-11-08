@@ -77,7 +77,7 @@ header{
 .card-body{
     width: 25%;
     /* height: 150vh; */
-    height: fit-content;
+    /* height: fit-content; */
     border-radius: 29px;
     background:#d0f0fd;
     padding:0 0 40px 0;
